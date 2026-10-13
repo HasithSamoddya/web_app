@@ -153,7 +153,7 @@ else:
             {
                 "title": "Slide 2",
                 "text": "A close-up of local flora",
-                "img":"C:\\Users\\Hasith\\Downloads\\bailey-zindel-NRQV-hBF10M-unsplash.jpg"
+                "img":"bailey-zindel-NRQV-hBF10M-unsplash.jpg"
             }
         ]
 
