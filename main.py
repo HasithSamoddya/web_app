@@ -147,7 +147,7 @@ else:
             {
                 "title": "Slide 1",
                 "text": "A beautiful view of nature",
-                "img": "C:\\Users\\Hasith\\Downloads\\pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg"
+                "img": "bailey-zindel-NRQV-hBF10M-unsplash.jpg"
 
             },
             {
