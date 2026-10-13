@@ -147,13 +147,13 @@ else:
             {
                 "title": "Slide 1",
                 "text": "A beautiful view of nature",
-                "img": "https://unsplash.com/photos/aerial-shot-of-forest-2Hzmz15wGik"
+                "img": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=1574&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
 
             },
             {
                 "title": "Slide 2",
                 "text": "A close-up of local flora",
-                "img": "https://unsplash.com/photos/foggy-mountain-summit-1Z2niiBPg5A"
+                "img": "https://images.unsplash.com/photo-1511884642898-4c92249e20b6?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D"
             }
         ]
 
