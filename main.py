@@ -147,13 +147,13 @@ else:
             {
                 "title": "Slide 1",
                 "text": "A beautiful view of nature",
-                "img": "bailey-zindel-NRQV-hBF10M-unsplash.jpg"
+                "img": "pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg"
 
             },
             {
                 "title": "Slide 2",
                 "text": "A close-up of local flora",
-                "img":"bailey-zindel-NRQV-hBF10M-unsplash.jpg"
+                "img": "bailey-zindel-NRQV-hBF10M-unsplash.jpg"
             }
         ]
 
