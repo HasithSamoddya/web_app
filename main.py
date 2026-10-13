@@ -147,13 +147,13 @@ else:
             {
                 "title": "Slide 1",
                 "text": "A beautiful view of nature",
-                "img": "pietro-de-grandi-T7K4aEPoGGk-unsplash.jpg"
+                "img": "https://unsplash.com/photos/aerial-shot-of-forest-2Hzmz15wGik"
 
             },
             {
                 "title": "Slide 2",
                 "text": "A close-up of local flora",
-                "img": "bailey-zindel-NRQV-hBF10M-unsplash.jpg"
+                "img": "https://unsplash.com/photos/foggy-mountain-summit-1Z2niiBPg5A"
             }
         ]
 
